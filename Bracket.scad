@@ -1,3 +1,5 @@
+//Made for zarya to replace a broken roller curtain bracket.
+//Upgraded to have curved edges.
 use <MCAD/boxes.scad>
 
 union() {
